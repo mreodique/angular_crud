@@ -1,0 +1,135 @@
+{
+  "productlist": [
+    {
+      "productName": "Tuna belly",
+      "category": "Meat",
+      "freshness": "Brand New",
+      "price": "875",
+      "comment": "This is fresh meat",
+      "date": "2022-04-23T16:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "chicken wing",
+      "category": "Meat",
+      "freshness": "Brand New",
+      "price": "1200",
+      "comment": "This is fresh meat.  Price/Kg",
+      "date": "2022-04-23T16:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "chicken nugget",
+      "category": "Meat",
+      "freshness": "Brand New",
+      "price": "1200",
+      "comment": "This is fresh meat.  Price/Kg",
+      "date": "2022-04-23T16:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "calabasa",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": "120",
+      "comment": "This is not fresh",
+      "date": "2022-04-23T16:00:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "Durian",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": "150",
+      "comment": "This is fresh fruit from Guimaras",
+      "date": "2022-04-23T16:00:00.000Z",
+      "id": 23
+    },
+    {
+      "productName": "Onion",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": "120",
+      "comment": "white",
+      "date": "",
+      "id": 24
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruit",
+      "freshness": "Brand New",
+      "price": "150",
+      "comment": "Fuji",
+      "date": "",
+      "id": 25
+    },
+    {
+      "productName": "Garlic",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": "150",
+      "comment": "Ilocos native garlic",
+      "date": "",
+      "id": 26
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": "300",
+      "comment": "300g per pack",
+      "date": "",
+      "id": 27
+    },
+    {
+      "productName": "Tumeric",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": "250",
+      "comment": "300g per pack",
+      "date": "",
+      "id": 28
+    }
+  ],
+  "categorylist": [
+    {
+      "id": 1,
+      "categoryName": "Fruit"
+    },
+    {
+      "categoryName": "Car",
+      "id": 2
+    },
+    {
+      "categoryName": "Watch",
+      "id": 3
+    },
+    {
+      "categoryName": "Vegetable",
+      "id": 4
+    },
+    {
+      "categoryName": "Meat",
+      "id": 5
+    },
+    {
+      "categoryName": "Furniture",
+      "id": 6
+    },
+    {
+      "categoryName": "Electronics",
+      "id": 7
+    },
+    {
+      "categoryName": "Apparel",
+      "id": 8
+    },
+    {
+      "categoryName": "Shoe",
+      "id": 9
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
